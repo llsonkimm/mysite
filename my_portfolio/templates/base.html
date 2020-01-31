@@ -166,9 +166,7 @@
 
 </body>
 
-<div class="container">
-  {% block page_content %}
-</div>
+
 </div>
 </div>
 
@@ -185,4 +183,7 @@
 </footer>
 
 </html>
-{% endblock %}
+
+<div class="container">
+  {% block page_content %}{% endblock %}
+</div>
