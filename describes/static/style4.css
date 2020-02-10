@@ -84,7 +84,7 @@ body {
 
 .album { 
   padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-bottom: 0rem;
   background-color: #000000;
 }
 
@@ -117,9 +117,9 @@ body {
 }
 footer {
   padding-top: 2rem;
-  padding-bottom: 3rem;
+  padding-bottom: 0rem;
   background-color: #cec1c1fb;
-  margin-bottom: auto;
+  margin-bottom: 0em;
 }
 footer p {
   margin-bottom: .2rem;
